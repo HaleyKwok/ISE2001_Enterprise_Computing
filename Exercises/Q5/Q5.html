@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Question 5: Design an Application for PolyU (20 marks)</title>
+</head>
+<body>
+    <body>
+        <a name="top"></a>
+
+        <div id="container" style="width:100%"></div>
+        <div id="header" style="background-color:#FFA500;">
+            <style type="text/css">
+                #times {
+                    width: 200px;
+                    height: 20px;
+                    float: right;
+                }
+            </style>
+            <div id="times"></div>
+            <h1 style=" margin-bottom:0;">Welcome!</h1>
+
+            <img src="Q5.jpg" width="100%" height="400px" />
+
+
+            <style type="text/css">
+                #times {
+                    width: 200px;
+                    height: 20px;
+                    float: right;
+                }
+            </style>
+
+            <script>
+
+                function getDate() {
+                    var date = new Date();
+                    var date1 = date.toLocaleString();
+                    var div1 = document.getElementById("times");
+                    div1.innerHTML = date1;
+                }
+                setInterval("getDate()", 1000);
+
+            </script>
+
+            <div id="menu" style="background-color:#fad506;height:750px;width:150px;float:left;">
+                <h2>Menu</h2>
+                <link rel="stylesheet" type="text/css" href="Linkdecoration.css">
+                <h4><i>About us</i></h4>
+                <p><a href="Webdeveloper.html" target="iframe_a">Web-page Developer</a></p>
+                <p><a href="Qq5.html" target="iframe_a">CAR Subject Feedback</a></p>
+            </div>
+
+            <div id="content" style="height: 750px;width: 89%;float:left;">
+                <iframe src="Webdeveloper.html" width="100%" height="750px" name="iframe_a"></iframe>
+            </div>
+
+            <br />
+            <br />
+            
+            <br />
+            <br />
+            <br />
+            <br />
+            <div id="footer" style="background-color:#B22222;clear:both;text-align:center;">
+                Copyright &copy; 2021 The Hong Kong Polytechnic University. All Rights Reserved.
+            </div>
+</body>
+</html>

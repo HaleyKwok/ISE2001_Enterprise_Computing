@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Question 1: Solving Quadratic Equations (15 marks)</title>
+</head>
+
+
+<body>
+    <center>
+        <br>
+        <p>Enter the coefficients <strong>a</strong>, <strong>b</strong> and <strong>c</strong> of a quadratic equation in the form of <strong>ax&#x00B2; + bx + c = 0</strong></p>
+        <br>
+        <br>
+        <br>
+
+        a: <input type="number" id="inputa" size="7" required>
+        b: <input type="number" id="inputb" size="7" required>
+        c: <input type="number" id="inputc" size="7" required>
+        <br>
+        <br>
+        <button onclick="answer()">Calculate</button>
+
+
+        <script>
+
+                function answer() {
+
+                    //declaring of root1 and root2 variables
+                    var x1, x2;
+                    var a = parseInt(document.getElementById('inputa').value);
+                    var b = parseInt(document.getElementById('inputb').value);
+                    var c = parseInt(document.getElementById('inputc').value);
+
+                    //calculating discriminant value
+                    var discriminant = b * b - 4 * a * c;
+
+                    //if discriminant is greater than 0 ,then the roots are real and two roots are differnt
+                    if (discriminant > 0) {
+                        //calculating the roots by equation x = (-b +- sqrt(b^2 - 4ac)) / 2a
+                        x1 = (-b + Math.sqrt(discriminant)) / (2 * a);
+                        x2 = (-b - Math.sqrt(discriminant)) / (2 * a);
+
+                        // showing the result in popup box
+                        alert(`The roots of quadratic equation are ${x1} and ${x2}.`);
+                    }
+
+                    // if discriminant is equalt to zero ,then the roots are real and equal roots
+                    else if (discriminant == 0) {
+                        x1 = x2 = -b / (2 * a);
+                        // showing the result in popup box
+                        alert(`The roots of quadratic equation are ${x1} and ${x2}.`);
+                    }
+
+
+                    // if roots are not real, then no real root
+                    else {
+                        // showing the result in popup box
+                        alert("No real roots");
+                    }
+
+
+
+            }
+        </script>
+    </center>
+
+</body>
+
+</html>
