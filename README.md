@@ -46,7 +46,7 @@ Website Function: <br>
   </li>
 </ul>
 
-- Best seller (Selling records)
+- Best Seller (Selling records)
 
 
 *About customers*
@@ -61,7 +61,7 @@ Website Function: <br>
 </ul>
 
 <ul>
-  <li>VIP Signup</li>
+  <li>VIP Sign Up</li>
     <ul>
       <li>A page for customer to sign up as VIP.</li>
       <li>Personal information will be inserted into the database systematically.</li>
@@ -71,7 +71,7 @@ Website Function: <br>
 </ul>
 
 <ul>
-  <li>VIP Sign in</li>
+  <li>VIP Sign In</li>
     <ul>
       <li>VIPs can login by their username and password after registeration.</li>
       <li>The discount code will appear after VIPs login successfully.</li>
@@ -83,7 +83,7 @@ Website Function: <br>
 Limitations and Future Prospects:
 - VIP sign in  & sign out system
 - Comments
-- Payment
+- Payment method
 - Online delivery
 
 ---
