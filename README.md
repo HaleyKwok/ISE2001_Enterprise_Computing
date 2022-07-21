@@ -13,4 +13,4 @@ Visual Studio, Visual Studio Code
 
 ---
 
-Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/) All rights reserved.
+Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), Victor Hung, Leo Cheung, Yuki Chan All rights reserved.
