@@ -5,11 +5,40 @@ Indicative Syllabus [ISE2001: Introduction to Enterprise Computing](https://www.
 From mainframe to network computing; Client/Server computing; Group-wise electronic messaging, document management systems, and corporate database systems; HTML; XML; VBScript; ASP; PHP; Application of company-wide and enterprise-wide computing
 2.	Development of Enterprise Applications
 Development of e-solutions based on applications software; Static and dynamic Webpage; Electronic publishing; Scripting language; Introduction to multimedia; Use of reporting tools; Web programming tools for e-solutions
-
 ---
-
 Software: 
-Visual Studio, Visual Studio Code
+- Visual Studio
+- Visual Studio Code
+---
+Achievement:
+- Developed a webpage for visitors to view products
+- Connected ASP.NET webpage that enable users to input information to the database
+---
+Website Overview: 
+<br>
+<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">
+---
+Background Information:
+- The drinks market is one of the most potential markets.
+- HeyTea, attracts more than 400 costumers queueing.
+---
+Project Mission:
+- Spread business brand through the online platform.
+- A drink shop providing different drinks to consumers.
+- Collect and Analyze information from customers.
+---
+Website Function:
+<br>
+*About Us*
+- Website Developer
+- Contact Email
+<br>
+*Our Commitment*
+- Our shared value
+<br>
+*Shop Environment*
+- Environment, address and contact
+<br>
 
 ---
 
