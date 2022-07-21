@@ -14,10 +14,6 @@ Achievement:
 - Developed a webpage for visitors to view products
 - Connected ASP.NET webpage that enable users to input information to the database
 ---
-Website Overview: 
-<br>
-<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">
----
 Background Information:
 - The drinks market is one of the most potential markets.
 - HeyTea, attracts more than 400 costumers queueing.
@@ -27,19 +23,67 @@ Project Mission:
 - A drink shop providing different drinks to consumers.
 - Collect and Analyze information from customers.
 ---
-Website Function:
-<br>
-*About Us*
-- Website Developer
-- Contact Email
-<br>
-*Our Commitment*
-- Our shared value
-<br>
-*Shop Environment*
-- Environment, address and contact
-<br>
+Website Overview: <br>
+<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">
+
+
+
+Website Function: <br>
+*About us*
+- Website Developer (Contact Email)
+- Our Commitment (Our shared value)
+- Shop Environment (Environment, address and contact)
+
+*About products*
+- Our Products (Drink list and prices)
+<ul>
+  <li>Products' Photos</li>
+    <ul>
+      <li>Displaying drinks’ photos according to the input product number.</li>
+      <li>Enter the product number between 1-23 (we have 23 products in total).</li>
+      <li>Return ERROR! message if the input number is invaild.</li>
+    </ul>
+  </li>
+</ul>
+- Best seller (Selling records)
+
+
+*About customers*
+ 
+<ul>
+  <li>Feedback Form</li>
+    <ul>
+      <li>Receiving customers’ feedbacks.</li>
+      <li>Received information will be inserted into the database systematically.</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>VIP Signup</li>
+    <ul>
+      <li>A page for customer to sign up as VIP.</li>
+      <li>Personal information will be inserted into the database systematically.</li>
+      <li>The discount code will be available soon after verifying VIPs have one account only according to their telephone number.</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>VIP Sign in</li>
+    <ul>
+      <li>VIPs can login by their username and password after registeration.</li>
+      <li>The discount code will appear after VIPs login successfully.</li>
+    </ul>
+  </li>
+</ul>
 
 ---
+Limitations and Future Prospects:
+- VIP sign in  & sign out system
+- Comments
+- Payment
+- Online delivery
 
+---
 Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), Victor Hung, Leo Cheung, Yuki Chan All rights reserved.
