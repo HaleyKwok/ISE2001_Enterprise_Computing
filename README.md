@@ -1,6 +1,6 @@
 # Introduction to Enterprise Computing
 
-Indicative Syllabus [ISE2001: Introduction to Enterprise Computing](https://www.polyu.edu.hk/ise/-/media/department/ise/content/study/current-student/programme-related-info/subject-syllabi/ise2001.doc?la=en&hash=C6B3B6F1975E875D9D3E5014375154CD):
+Indicative Syllabus in 2020/2021 Semester 2 [ISE2001: Introduction to Enterprise Computing](https://www.polyu.edu.hk/ise/-/media/department/ise/content/study/current-student/programme-related-info/subject-syllabi/ise2001.doc?la=en&hash=C6B3B6F1975E875D9D3E5014375154CD):
 1.	Introduction to Business Enterprise and Enterprise Computing
 From mainframe to network computing; Client/Server computing; Group-wise electronic messaging, document management systems, and corporate database systems; HTML; XML; VBScript; ASP; PHP; Application of company-wide and enterprise-wide computing
 2.	Development of Enterprise Applications
