@@ -23,8 +23,8 @@ Project Mission:
 - A drink shop providing different drinks to consumers.
 - Collect and Analyze information from customers.
 ---
-Website Overview: <br>
-<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">
+<!--Website Overview: <br>-->
+<!--<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">-->
 
 
 
