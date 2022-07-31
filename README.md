@@ -16,7 +16,7 @@ Achievement:
 ---
 Background Information:
 - The drinks market is one of the most potential markets.
-- HeyTea, attracts more than 400 costumers queueing.
+- HeyTea, attracts more than 400 customers queueing.
 ---
 Project Mission:
 - Spread business brand through the online platform.
