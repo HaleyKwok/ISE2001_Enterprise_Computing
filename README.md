@@ -19,9 +19,9 @@ Background Information:
 - HeyTea, attracts more than 400 customers queueing.
 ---
 Project Mission:
-- Spread business brand through the online platform.
-- A drink shop providing different drinks to consumers.
-- Collect and Analyze information from customers.
+- Spreading corporate brand through online platforms.
+- A drinks shop offering different drinks to consumers.
+- Collecting and analysing information from customers.
 ---
 <!--Website Overview: <br>-->
 <!--<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">-->
