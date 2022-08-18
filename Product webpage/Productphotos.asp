@@ -28,7 +28,6 @@
                   var proid = rs("P_ID");
                   var ppid = String(proid);
                   if (pid == ppid) {
-
                       if (pid == "1") { Response.write('<img src="1.jpg " style="max-height:200px; max-width:70%"/>') };
                       if (pid == "2") { Response.write('<img src="2.jpg " style="max-height:200px; max-width:70%"/>') };
                       if (pid == "3") { Response.write('<img src="3.jpg " style="max-height:200px; max-width:50%"/>') };
