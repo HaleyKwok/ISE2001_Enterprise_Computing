@@ -19,13 +19,14 @@ Project Mission:
 
 ---
 Achievement:
-- Developed a webpage for visitors to view products
-- Connected ASP.NET webpage that enable users to input information to the database
+- Developed a **Webpage** for visitors to view products
+- Connected **ASP.NET** webpage that enable users to input information to the **Database**
 
 ---
-Software Development Tools:
+Software Development Tools and Programming Language:
 - Visual Studio
 - Visual Studio Code
+- HTML5, CSS, Javascript, ASP.NET, SQL
 
 ---
 <!--Website Overview: <br>-->
