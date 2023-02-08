@@ -27,6 +27,7 @@ Project Mission:
 <!--<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">-->
 
 
+<div>
 <details open>
 Website Function: <br>
 *About us*
@@ -80,6 +81,8 @@ Website Function: <br>
 </ul>
 
 </details>
+</div>
+
 ---
 Limitations and Future Prospects:
 - VIP sign in  & sign out system
@@ -90,6 +93,8 @@ Limitations and Future Prospects:
 ---
 # Acknowledgement
 Enterprise Management System is an open source project, contributed by our team. We thank all contributors who implemented their methods or added new features, as well as users who provided valuable feedback. We hope for further implementation and improvement of these systems.
+
+
 
 ---
 # Notice
