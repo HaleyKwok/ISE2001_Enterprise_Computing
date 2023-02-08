@@ -27,7 +27,7 @@ Project Mission:
 <!--<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">-->
 
 
-
+<details open>
 Website Function: <br>
 *About us*
 - Website Developer (Contact Email)
@@ -79,12 +79,17 @@ Website Function: <br>
   </li>
 </ul>
 
+</details>
 ---
 Limitations and Future Prospects:
 - VIP sign in  & sign out system
 - Comments
 - Payment method
 - Online delivery
+
+---
+# Acknowledgement
+Enterprise Management System is an open source project, contributed by our team. We thank all contributors who implemented their methods or added new features, as well as users who provided valuable feedback. We hope for further implementation and improvement of these systems.
 
 ---
 # Notice
@@ -95,5 +100,4 @@ Contact: kwokhinchi@gmail.com
 Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), Victor Hung, Leo Cheung, Yuki Chan All rights reserved.
 
 <img src = 'logo-polyu.png'>
-<img src = 'feng.png'>
-<img src = 'tagline1.png'>
+<img src = 'tagline1.png' width = 200>
