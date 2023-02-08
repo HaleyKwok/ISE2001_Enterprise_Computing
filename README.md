@@ -30,6 +30,7 @@ Project Mission:
 <div>
 <details open>
 Website Function: <br>
+  
 *About us*
 - Website Developer (Contact Email)
 - Our Commitment (Our shared value)
