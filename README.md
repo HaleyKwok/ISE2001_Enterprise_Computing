@@ -6,14 +6,8 @@ From mainframe to network computing; Client/Server computing; Group-wise electro
 2.	Development of Enterprise Applications
 Development of e-solutions based on applications software; Static and dynamic Webpage; Electronic publishing; Scripting language; Introduction to multimedia; Use of reporting tools; Web programming tools for e-solutions
 ---
-Software: 
-- Visual Studio
-- Visual Studio Code
----
-Achievement:
-- Developed a webpage for visitors to view products
-- Connected ASP.NET webpage that enable users to input information to the database
----
+# Overview
+
 Background Information:
 - The drinks market is one of the most potential markets.
 - HeyTea, attracts more than 400 customers queueing.
@@ -22,6 +16,17 @@ Project Mission:
 - Spreading corporate brand through online platforms.
 - A drinks shop offering different drinks to consumers.
 - Collecting and analysing information from customers.
+
+---
+Achievement:
+- Developed a webpage for visitors to view products
+- Connected ASP.NET webpage that enable users to input information to the database
+
+---
+Software Development Tools:
+- Visual Studio
+- Visual Studio Code
+
 ---
 <!--Website Overview: <br>-->
 <!--<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">-->
@@ -86,8 +91,9 @@ Project Mission:
 </div>
 
 ---
-Limitations and Future Prospects:
-- VIP sign in  & sign out system
+# Limitations and Future Prospects
+
+- VIP sign in & sign out system
 - Comments
 - Payment method
 - Online delivery
@@ -96,7 +102,9 @@ Limitations and Future Prospects:
 # Acknowledgement
 Enterprise Management System is an open source project, contributed by our team. We thank all contributors who implemented their methods or added new features, as well as users who provided valuable feedback. We hope for further implementation and improvement of these systems.
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Repository and associated documentation files, to deal in the Repository without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Repository is furnished to do so.
 
+The authors or copyright holders are not be liable for any claim, damages or other liabillty, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Repository or the use or other dealings in the Repository. 
 
 ---
 # Notice
@@ -105,6 +113,7 @@ Contact: kwokhinchi@gmail.com
 
 ---
 Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), Victor Hung, Leo Cheung, Yuki Chan All rights reserved.
+
 
 <img src = 'logo-polyu.png'>
 <img src = 'tagline1.png' width = 200>
