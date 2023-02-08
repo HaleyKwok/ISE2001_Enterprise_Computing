@@ -87,5 +87,10 @@ Limitations and Future Prospects:
 - Online delivery
 
 ---
+# Notice
+There is still room for improvement on this project, please feel free to provide suggestions and comments.
+Contact: kwokhinchi@gmail.com
+---
 Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), Victor Hung, Leo Cheung, Yuki Chan All rights reserved.
 
+<img src = 'logo-polyu.png'>
