@@ -1,4 +1,4 @@
-# Introduction to Enterprise Computing
+# 🔆 Introduction to Enterprise Computing
 
 Indicative Syllabus in 2020/2021 Semester 2 [ISE2001: Introduction to Enterprise Computing](https://www.polyu.edu.hk/ise/-/media/department/ise/content/study/current-student/programme-related-info/subject-syllabi/ise2001.doc?la=en&hash=C6B3B6F1975E875D9D3E5014375154CD):
 1.	Introduction to Business Enterprise and Enterprise Computing
@@ -92,15 +92,16 @@ Software Development Tools and Programming Language:
 </div>
 
 ---
-# Limitations and Future Prospects
+# 📝 Limitations and Future Prospects
 
-- VIP sign in & sign out system
-- Comments
-- Payment method
-- Online delivery
+- [] VIP sign in & sign out system
+- [] Comments
+- [] Payment method
+- [] Online delivery
+
 
 ---
-# Acknowledgement
+## Acknowledgement
 Enterprise Management System is an open source project, contributed by our team. We thank all contributors who implemented their methods or added new features, as well as users who provided valuable feedback. We hope for further implementation and improvement of these systems.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this Repository and associated documentation files, to deal in the Repository without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Repository is furnished to do so.
@@ -108,9 +109,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The authors or copyright holders are not be liable for any claim, damages or other liabillty, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Repository or the use or other dealings in the Repository. 
 
 ---
-# Notice
+## 📭 Notice
 There is still room for improvement on this project, please feel free to provide suggestions and comments.
-Contact: kwokhinchi@gmail.com
+Contact: kwokhinchi[AT]gmail[DOT]com
 
 ---
 Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), Victor Hung, Leo Cheung, Yuki Chan All rights reserved.
