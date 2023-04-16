@@ -1,4 +1,6 @@
-# 🔆 Introduction to Enterprise Computing
+# A Website For Beverage Selling
+
+## 🔆 Introduction
 
 Background Information:
 - The drinks market is one of the most potential markets.
@@ -24,7 +26,7 @@ Software Development Tools and Programming Language:
 <!--Website Overview: <br>-->
 <!--<img width="513" alt="image" src="https://user-images.githubusercontent.com/98343091/180188433-82ae666a-4a52-43c1-8ccf-eb1b78209bff.png">-->
 
-# 🥳 Website Function
+## 🥳 Website Function
 
 <div>
 <details open>
@@ -84,7 +86,7 @@ Software Development Tools and Programming Language:
 </div>
 
 ---
-# 📝 Limitations and Future Prospects
+## 📝 Limitations and Future Prospects
 
 - [] VIP sign in & sign out system
 - [] Comments
@@ -93,7 +95,7 @@ Software Development Tools and Programming Language:
 
 
 ---
-## Acknowledgement
+## 📖 Acknowledgement
 Enterprise Management System is an open source project, contributed by our team. We thank all contributors who implemented their methods or added new features, as well as users who provided valuable feedback. We hope for further implementation and improvement of these systems.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this Repository and associated documentation files, to deal in the Repository without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Repository is furnished to do so.
