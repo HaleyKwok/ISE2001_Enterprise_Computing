@@ -5,18 +5,18 @@
 Background Information:
 - The drinks market is one of the most potential markets.
 - HeyTea, attracts more than 400 customers queueing.
----
+
 Project Mission:
 - Spreading corporate brand through online platforms.
 - A drinks shop offering different drinks to consumers.
 - Collecting and analysing information from customers.
 
----
+
 Achievement:
 - Developed a **Webpage** for visitors to view products
 - Connected **ASP.NET** webpage that enable users to input information to the **Database**
 
----
+
 Software Development Tools and Programming Language:
 - Visual Studio
 - Visual Studio Code
@@ -88,10 +88,10 @@ Software Development Tools and Programming Language:
 ---
 ## 📝 Limitations and Future Prospects
 
-- [] VIP sign in & sign out system
-- [] Comments
-- [] Payment method
-- [] Online delivery
+- [ ] VIP sign in & sign out system
+- [ ] Comments
+- [ ] Payment method
+- [ ] Online delivery
 
 
 ---
@@ -102,10 +102,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The authors or copyright holders are not be liable for any claim, damages or other liabillty, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Repository or the use or other dealings in the Repository. 
 
----
 ## 📭 Notice
 There is still room for improvement on this project, please feel free to provide suggestions and comments.
-Contact: kwokhinchi[AT]gmail[DOT]com
+Contact: kwokhinchi@gmail.com
 
 ---
 Copyright © [The Hong Kong Polytechnic University, Faculty of Engineering, Department of Industrial & Systems Engineering](https://www.polyu.edu.hk/ise/), [Haley Kwok](https://github.com/HaleyKwok), Victor Hung, Leo Cheung, Yuki Chan All rights reserved.
